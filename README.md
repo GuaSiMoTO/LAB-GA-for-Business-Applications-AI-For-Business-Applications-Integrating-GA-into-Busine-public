@@ -35,7 +35,7 @@ You are part of the marketing team of a startup launching a new gadget called **
    - Turn a promotional text (e.g., "5 reasons to choose SmartBuddy") into a dynamic video:
      - Include relevant animations and customize the branding (colors, fonts).
    - Ensure to add a call to action at the end of the video, such as "Learn more on our website."
-   - 
+   
 
 ### **Expected Deliverables**
 - A promotional video from Synthesia.
