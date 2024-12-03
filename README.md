@@ -1,4 +1,5 @@
 # LAB-Foundations-of-Generative-AI-For-Business-Applications
+![desc](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733235874/codeskills/generative-ai-for-business-applications/Integrating%20Generative%20AI%20into%20Business%20Processes/dzyzqzxigh5hjv9orjpl.png)
 
 ## Introduction
 
@@ -7,8 +8,6 @@ As the marketing team of **SmartBuddy**, an innovative home assistant designed t
 To achieve this, your team is leveraging cutting-edge AI tools to enhance every stage of the campaign. From creating dynamic promotional content to automating workflows and improving team collaboration, AI becomes a crucial ally in delivering efficiency and creativity. By integrating tools like Synthesia for video production, tl;dv for meeting transcription, and Make for automation, the team can focus on strategy while minimizing repetitive tasks.
 
 This initiative not only demonstrates the power of AI in marketing and operations but also positions **SmartBuddy** as a symbol of innovation—both in its features and in how it is brought to market.
-
-![desc](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733235874/codeskills/generative-ai-for-business-applications/Integrating%20Generative%20AI%20into%20Business%20Processes/dzyzqzxigh5hjv9orjpl.png){{{width="auto" height="auto"}}}
 
 ---
 
