@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/31ee7a4e-a57d-4d54-8351-9cbde7505a74)# LAB-Foundations-of-Generative-AI-For-Business-Applications
+# LAB-Foundations-of-Generative-AI-For-Business-Applications
 ![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733235874/codeskills/generative-ai-for-business-applications/Integrating%20Generative%20AI%20into%20Business%20Processes/dzyzqzxigh5hjv9orjpl.png)
 
 ## Introduction
@@ -81,7 +81,7 @@ Your team is preparing for the launch of SmartBuddy. To streamline communication
 ### **Context**
 As part of the SmartBuddy launch campaign, you want to automate repetitive tasks to save time and ensure consistency. Use **Make** to connect tools and streamline the process.
 
-![](https://github.com/user-attachments/assets/bfd06221-9103-4c02-93de-076db5ba8bf8)
+![](https://github.com/user-attachments/assets/31ee7a4e-a57d-4d54-8351-9cbde7505a74)
 
 ### **Activities**
 
