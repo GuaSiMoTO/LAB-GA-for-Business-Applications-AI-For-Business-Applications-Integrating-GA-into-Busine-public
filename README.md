@@ -1,5 +1,5 @@
-# LAB-Foundations-of-Generative-AI-For-Business-Applications
-![desc](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733235874/codeskills/generative-ai-for-business-applications/Integrating%20Generative%20AI%20into%20Business%20Processes/dzyzqzxigh5hjv9orjpl.png)
+![image](https://github.com/user-attachments/assets/31ee7a4e-a57d-4d54-8351-9cbde7505a74)# LAB-Foundations-of-Generative-AI-For-Business-Applications
+![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733235874/codeskills/generative-ai-for-business-applications/Integrating%20Generative%20AI%20into%20Business%20Processes/dzyzqzxigh5hjv9orjpl.png)
 
 ## Introduction
 
@@ -15,6 +15,8 @@ This initiative not only demonstrates the power of AI in marketing and operation
 
 ### **Context**
 You are part of the marketing team of a startup launching a new gadget called **SmartBuddy**, an intelligent home assistant that combines voice control, automation, and entertainment. Your task is to create promotional materials using AI tools.
+
+![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733302519/codeskills/generative-ai/Foundations%20of%20NLP%20and%20Large%20Language%20Models%20%28LLMs%29/wfeeolpsxhxm6jdd513h.png)
 
 ### **Activities**
 
@@ -49,6 +51,8 @@ You are part of the marketing team of a startup launching a new gadget called **
 ### **Context**
 Your team is preparing for the launch of SmartBuddy. To streamline communication, you want to record and summarize team meetings using AI tools.
 
+![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733302701/codeskills/generative-ai/Foundations%20of%20NLP%20and%20Large%20Language%20Models%20%28LLMs%29/ib0m4wxpmwolf28nqpbc.png)
+
 ### **Activities**
 
 1. **Recording a Team Meeting on Google Meet**
@@ -76,6 +80,8 @@ Your team is preparing for the launch of SmartBuddy. To streamline communication
 
 ### **Context**
 As part of the SmartBuddy launch campaign, you want to automate repetitive tasks to save time and ensure consistency. Use **Make** to connect tools and streamline the process.
+
+![](https://github.com/user-attachments/assets/bfd06221-9103-4c02-93de-076db5ba8bf8)
 
 ### **Activities**
 
