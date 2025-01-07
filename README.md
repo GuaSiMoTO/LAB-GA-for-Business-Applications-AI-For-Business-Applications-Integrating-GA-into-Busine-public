@@ -90,7 +90,6 @@ As part of the SmartBuddy launch campaign, you want to automate repetitive tasks
 ### **Activities**
 
 1. **Task 1: Saving Client Documents in Google Drive**
-   - **Scenario**:  
      Your company needs to organize all client documents in Google Drive. The goal is to save every incoming document into a designated folder, creating subfolders for each client automatically.
 
    - **Exercise**:  
@@ -99,7 +98,6 @@ As part of the SmartBuddy launch campaign, you want to automate repetitive tasks
 
 
 2. **Task 2: Customizing Document Storage for Specific Clients**  
-   - **Scenario**:  
      After implementing the basic document storage automation, the process needs to be refined to save files only for specific clients, such as those labeled as "VIP" or with a specific email domain.
 
    - **Exercise**:  
@@ -110,7 +108,6 @@ As part of the SmartBuddy launch campaign, you want to automate repetitive tasks
 
 
 3. **Task: Automating Meeting Summaries and Notifications**
-   - **Scenario**:
      After each marketing meeting recorded on Google Meet, the following steps need to happen automatically:
      - Transcription and summarization with tl;dv.
      - Summaries are emailed to all team members.
@@ -131,7 +128,6 @@ As part of the SmartBuddy launch campaign, you want to automate repetitive tasks
 
 
 **Task: Automating Social Media Post Scheduling**
- - **Scenario**:
    The marketing team has a Google Sheet with planned posts for SmartBuddy’s social media campaign. Automate the scheduling process using Make.
 
  - **Exercise**:
