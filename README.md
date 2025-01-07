@@ -90,7 +90,7 @@ As part of the SmartBuddy launch campaign, you want to automate repetitive tasks
 ### **Activities**
 
 1. **Task 1: Saving Client Documents in Google Drive**
-     Your company needs to organize all client documents in Google Drive. The goal is to save every incoming document into a designated folder, creating subfolders for each client automatically.
+      Your company needs to organize all client documents in Google Drive. The goal is to save every incoming document into a designated folder, creating subfolders for each client automatically.
 
    - **Exercise**:  
      - Create an automation in **Make** to save all incoming client documents into Google Drive.  
