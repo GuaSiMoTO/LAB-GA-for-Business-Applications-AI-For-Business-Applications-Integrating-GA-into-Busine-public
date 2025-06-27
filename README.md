@@ -1,4 +1,4 @@
-# LAB-Foundations-of-Generative-AI-For-Business-Applications
+# LAB-GA-for-Business-Applications-AI-For-Business-Applications-Integrating-GA-into-Busine
 ![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1733235874/codeskills/generative-ai-for-business-applications/Integrating%20Generative%20AI%20into%20Business%20Processes/dzyzqzxigh5hjv9orjpl.png)
 
 ## Introduction
