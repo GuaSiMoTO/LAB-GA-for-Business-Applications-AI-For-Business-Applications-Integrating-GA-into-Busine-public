@@ -20,7 +20,7 @@ You are part of the marketing team of a startup launching a new gadget called **
 
 ### **Activities**
 
-1. **Promotional Video Creation with Synthesia**
+1. **Promotional Video Creation with HeyGen**
    - Create a short video (30-60 seconds) featuring an avatar explaining SmartBuddy’s key features:
      - Voice control.
      - Home automation.
@@ -38,12 +38,6 @@ You are part of the marketing team of a startup launching a new gadget called **
      - Include relevant animations and customize the branding (colors, fonts).
    - Ensure to add a call to action at the end of the video, such as "Learn more on our website."
    
-
-### **Expected Deliverables**
-- A promotional video from Synthesia. Upload the files in the `student_deliverables` folder and provide the **Sharing link**:
-- An edited audio/video file using Descript. Upload the files in the `student_deliverables` folder and provide the **Sharing link**:
-- A dynamic video created with Lumen5. Upload the files in the `student_deliverables` folder and provide the **Sharing link**:
-
 ---
 
 ## **Iteration 2: Meeting Recordings and Summarization**
